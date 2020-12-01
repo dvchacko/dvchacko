@@ -1,4 +1,4 @@
-# [![dvchacko home](https://static.wixstatic.com/media/0fb6dc8a6cb74de287f9ba00051ec135.jpg | height=100)](https://www.todaystechnology.org/)
+[<img src="https://static.wixstatic.com/media/0fb6dc8a6cb74de287f9ba00051ec135.jpg" width=1000 height=400>](https://www.todaystechnology.org/)
 
 ![os: mac](https://img.shields.io/badge/os-mac-success)![os: mac](https://img.shields.io/badge/language-java-success)![os: mac](https://img.shields.io/badge/language-node.js-success)![os: mac](https://img.shields.io/badge/platforms-aws-success)![framework spring](https://img.shields.io/badge/frameworks-spring-success)![service spring-boot](https://img.shields.io/badge/service-spring--boot-success)![service aws-lambda](https://img.shields.io/badge/service-aws--lambda-success)
 
