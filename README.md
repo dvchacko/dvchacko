@@ -1,4 +1,4 @@
-[<img src="https://static.wixstatic.com/media/95a8d23fd351498dacce637ff0136bb8.jpg/v1/fill/w_663,h_433,al_c,q_90,usm_0.66_1.00_0.01/95a8d23fd351498dacce637ff0136bb8.webp" width=1000 height=400>](https://www.todaystechnology.org/)
+[<img src="https://static.wixstatic.com/media/11062b_275891697b384a67b0e4896921ce3cfd~mv2.jpg/v1/fill/w_663,h_442,al_c,q_90,usm_0.66_1.00_0.01/11062b_275891697b384a67b0e4896921ce3cfd~mv2.webp" width=1000 height=400>](https://www.todaystechnology.org/)
 
 ![os: mac](https://img.shields.io/badge/os-mac-success)![os: mac](https://img.shields.io/badge/language-java-success)![os: mac](https://img.shields.io/badge/language-node.js-success)![os: mac](https://img.shields.io/badge/platforms-aws-success)![framework spring](https://img.shields.io/badge/frameworks-spring-success)![service spring-boot](https://img.shields.io/badge/service-spring--boot-success)![service aws-lambda](https://img.shields.io/badge/service-aws--lambda-success)
 
