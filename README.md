@@ -15,7 +15,34 @@
   [<img src="https://static.wixstatic.com/media/f9191e_d618ddaf6073447890264c9f94894020~mv2.png/v1/fill/w_663,h_308,al_c,q_90,usm_0.66_1.00_0.01/f9191e_d618ddaf6073447890264c9f94894020~mv2.webp">](https://www.todaystechnology.org/post/secure-spring-rest-api-using-openid-connect-and-keycloak-part-1)
 </details>
 
+# Featured Projects
+<details>
+  <summary>AWS Lambda CI/CD using GitHub Actions and Terraform</summary>
+  
+![](./Terraform-ci-cd.png)
 
+</details>
+
+<details>
+  <summary>Angular App with Oauth Implicit Grant Flow</summary>
+  
+![](./Angular-Implicit-grant-oauth.png)
+
+</details>
+
+<details>
+  <summary>Spring Boot Rest Application with Oauth Client Credentials Flow</summary>
+  
+![](./Spring-rest-reference.png)
+
+</details>
+
+<details>
+  <summary>Spring Boot WebClient Application with Oauth Client Credentials Flow</summary>
+  
+![](./Spring-web-client.png)
+
+</details>
 
 <!--
 **dvchacko/dvchacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
