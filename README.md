@@ -27,21 +27,26 @@
 <details>
   <summary>Angular App with Oauth Implicit Grant Flow</summary>
   
-![](./Angular-Implicit-grant-oauth.png)
+  [<img src="./Angular-Implicit-grant-oauth.png">](https://github.com/SpringSecurity-Keycloak/SimpleAngularUI)
+  
 
 </details>
 
 <details>
   <summary>Spring Boot Rest Application with Oauth Client Credentials Flow</summary>
   
-![](./Spring-rest-reference.png)
+   [<img src="./Spring-rest-reference.png">](https://github.com/SpringSecurity-Keycloak/SpringRestReferenceApplication)
+  
+![]()
 
 </details>
 
 <details>
   <summary>Spring Boot WebClient Application with Oauth Client Credentials Flow</summary>
   
-![](./Spring-web-client.png)
+   [<img src="./Spring-web-client.png">](https://github.com/SpringSecurity-Keycloak/Spring-5-Security-OAuth-2-Client-Credentials)
+  
+![]()
 
 </details>
 
