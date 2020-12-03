@@ -19,7 +19,8 @@
 <details>
   <summary>AWS Lambda CI/CD using GitHub Actions and Terraform</summary>
   
-![](./Terraform-ci-cd.png)
+  [<img src="./Terraform-ci-cd.png">](https://github.com/AWS-Terraform-Projects/aws-lambda-helloworld)
+
 
 </details>
 
