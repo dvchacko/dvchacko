@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+[<img src="https://static.wixstatic.com/media/11062b_275891697b384a67b0e4896921ce3cfd~mv2.jpg/v1/fill/w_663,h_442,al_c,q_90,usm_0.66_1.00_0.01/11062b_275891697b384a67b0e4896921ce3cfd~mv2.webp" width=1000 height=350>](https://www.todaystechnology.org/)
 
-You can use the [editor on GitHub](https://github.com/dvchacko/dvchacko/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![os: mac](https://img.shields.io/badge/os-mac-success)![os: mac](https://img.shields.io/badge/language-java-success)![os: mac](https://img.shields.io/badge/language-node.js-success)![os: mac](https://img.shields.io/badge/platforms-aws-success)![framework spring](https://img.shields.io/badge/frameworks-spring-success)![service spring-boot](https://img.shields.io/badge/service-spring--boot-success)![service aws-lambda](https://img.shields.io/badge/service-aws--lambda-success)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Featured Articles
+<details>
+  <summary>AWS Lambda CI/CD using GitHub Actions and Terraform</summary>
+  
+  [<img src="https://static.wixstatic.com/media/f9191e_cf391afa64454564b921fe1e38fc2c55~mv2.png/v1/fill/w_663,h_381,al_c,q_90,usm_0.66_1.00_0.01/f9191e_cf391afa64454564b921fe1e38fc2c55~mv2.web">](https://www.todaystechnology.org/post/aws-lambda-development-environment-with-ci-cd-part-1)
+</details>
 
-### Markdown
+<details>
+  <summary>Secure Spring Rest API using OpenId Connect And KeyCloak</summary>
+  
+  [<img src="https://static.wixstatic.com/media/f9191e_d618ddaf6073447890264c9f94894020~mv2.png/v1/fill/w_663,h_308,al_c,q_90,usm_0.66_1.00_0.01/f9191e_d618ddaf6073447890264c9f94894020~mv2.webp">](https://www.todaystechnology.org/post/secure-spring-rest-api-using-openid-connect-and-keycloak-part-1)
+</details>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Featured Projects
+<details>
+  <summary>AWS Lambda CI/CD using GitHub Actions and Terraform</summary>
+  
+  [<img src="./Terraform-ci-cd.png">](https://github.com/AWS-Terraform-Projects/aws-lambda-helloworld)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+</details>
 
-- Bulleted
-- List
+<details>
+  <summary>Angular App with Oauth Implicit Grant Flow</summary>
+  
+  [<img src="./Angular-Implicit-grant-oauth.png">](https://github.com/SpringSecurity-Keycloak/SimpleAngularUI)
+  
 
-1. Numbered
-2. List
+</details>
 
-**Bold** and _Italic_ and `Code` text
+<details>
+  <summary>Spring Boot Rest Application with Oauth Client Credentials Flow</summary>
+  
+   [<img src="./Spring-rest-reference.png">](https://github.com/SpringSecurity-Keycloak/SpringRestReferenceApplication)
+  
+![]()
 
-[Link](url) and ![Image](src)
-```
+</details>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<details>
+  <summary>Spring Boot WebClient Application with Oauth Client Credentials Flow</summary>
+  
+   [<img src="./Spring-web-client.png">](https://github.com/SpringSecurity-Keycloak/Spring-5-Security-OAuth-2-Client-Credentials)
+  
+![]()
 
-### Jekyll Themes
+</details>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dvchacko/dvchacko/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!--
+**dvchacko/dvchacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Support or Contact
+Here are some ideas to get you started:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
