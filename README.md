@@ -2,6 +2,12 @@
 
 # Featured Articles
 <details>
+  <summary>A responsive Angular Template with OpenId Connect</summary>
+  
+  [<img src="https://static.wixstatic.com/media/f9191e_01dec8402a5e47b594b9d2e67ecd2120~mv2.png/v1/fit/w_1000%2Ch_789%2Cal_c/file.png">](https://www.todaystechnology.org/post/part-1-a-responsive-angular-app-with-openid-connect)
+</details>
+
+<details>
   <summary>AWS Lambda CI/CD using GitHub Actions and Terraform</summary>
   
   [<img src="https://static.wixstatic.com/media/f9191e_cf391afa64454564b921fe1e38fc2c55~mv2.png/v1/fill/w_663,h_381,al_c,q_90,usm_0.66_1.00_0.01/f9191e_cf391afa64454564b921fe1e38fc2c55~mv2.web">](https://www.todaystechnology.org/post/aws-lambda-development-environment-with-ci-cd-part-1)
@@ -15,9 +21,16 @@
 
 # Featured Projects
 <details>
+  <summary>A responsive Angular Template with OpenId Connect</summary>
+  
+  [<img src="./AngularTemplate.png">](https://github.com/AWS-Terraform-Projects/aws-lambda-helloworld)
+
+
+</details>
+<details>
   <summary>AWS Lambda CI/CD using GitHub Actions and Terraform</summary>
   
-  [<img src="./Terraform-ci-cd.png">](https://github.com/AWS-Terraform-Projects/aws-lambda-helloworld)
+  [<img src="./Terraform-ci-cd.png">](https://github.com/FullStack-Templates/Angular-template)
 
 
 </details>
