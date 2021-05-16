@@ -34,14 +34,14 @@
 <details>
   <summary>A responsive Angular Template with OpenId Connect</summary>
   
-  [<img src="./AngularTemplate.png">](https://github.com/FullStack-Templates/Angular-template)
+  [<img src="./AngularTemplate.png">](https://github.com/FullStack-Templates/Angular-template#angular-oidc-template)
 
 
 </details>
 <details>
   <summary>AWS Lambda CI/CD using GitHub Actions and Terraform</summary>
   
-  [<img src="./Terraform-ci-cd.png">](https://github.com/AWS-Terraform-Projects/aws-lambda-helloworld)
+  [<img src="./Terraform-ci-cd.png">](https://github.com/AWS-Terraform-Projects/aws-lambda-helloworld#aws-lambda-helloworld)
 
 
 </details>
@@ -49,7 +49,7 @@
 <details>
   <summary>Angular App with Oauth Implicit Grant Flow</summary>
   
-  [<img src="./Angular-Implicit-grant-oauth.png">](https://github.com/SpringSecurity-Keycloak/SimpleAngularUI)
+  [<img src="./Angular-Implicit-grant-oauth.png">](https://github.com/SpringSecurity-Keycloak/SimpleAngularUI#a-simple-angular-ui-using-openid-implicit-flow-)
   
 
 </details>
@@ -57,7 +57,7 @@
 <details>
   <summary>Spring Boot Rest Application with Oauth Client Credentials Flow</summary>
   
-   [<img src="./Spring-rest-reference.png">](https://github.com/SpringSecurity-Keycloak/SpringRestReferenceApplication)
+   [<img src="./Spring-rest-reference.png">](https://github.com/SpringSecurity-Keycloak/SpringRestReferenceApplication#spring-reference-app)
   
 ![]()
 
@@ -66,7 +66,7 @@
 <details>
   <summary>Spring Boot WebClient Application with Oauth Client Credentials Flow</summary>
   
-   [<img src="./Spring-web-client.png">](https://github.com/SpringSecurity-Keycloak/Spring-5-Security-OAuth-2-Client-Credentials)
+   [<img src="./Spring-web-client.png">](https://github.com/SpringSecurity-Keycloak/Spring-5-Security-OAuth-2-Client-Credentials#spring-5-security-oauth-2-client-credentials)
   
 ![]()
 
