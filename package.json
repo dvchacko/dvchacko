@@ -1,0 +1,22 @@
+{
+  "name": "dennis.chacko",
+  "version": "1.0.0",
+  "description": "![service aws-lambda](https://img.shields.io/badge/-Java-green?style=social&logo=Java) ![service aws-lambda](https://img.shields.io/badge/-Spring-green?style=social&logo=Spring) ![service aws-lambda](https://img.shields.io/badge/-Nodejs-green?style=social&logo=Node.js) ![service aws-lambda](https://img.shields.io/badge/-Nestjs-green?style=social&logo=NestJS) ![service aws-lambda](https://img.shields.io/badge/-Typescript-green?style=social&logo=TypeScript)  ![service aws-lambda](https://img.shields.io/badge/-Angular-green?style=social&logo=Angular) ![service aws-lambda](https://img.shields.io/badge/-AWS-green?style=social&logo=Amazon+AWS)  ![service aws-lambda](https://img.shields.io/badge/-Serverless-green?style=social&logo=Serverless) ![service aws-lambda](https://img.shields.io/badge/-Linux-green?style=social&logo=Linux)  ![service aws-lambda](https://img.shields.io/badge/-Docker-green?style=social&logo=Docker)  ![service aws-lambda](https://img.shields.io/badge/-Terraform-green?style=social&logo=Terraform)  ![service aws-lambda](https://img.shields.io/badge/-GithubActions-green?style=social&logo=GitHub+Actions)  ![service aws-lambda](https://img.shields.io/badge/-Kubernetes-green?style=social&logo=Kubernetes)  ![service aws-lambda](https://img.shields.io/badge/-Dynamodb-green?style=social&logo=Amazon+DynamoDB)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvchacko/dvchacko.git"
+  },
+  "author": "Dennis Chacko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvchacko/dvchacko/issues"
+  },
+  "homepage": "https://github.com/dvchacko/dvchacko#readme",
+  "devDependencies": {
+    "@appnest/readme": "^1.2.7"
+  }
+}
